@@ -1,8 +1,8 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Parada formal" icon="mapaton_simple_icons/bus_stop.png" />
-            <button type="tag" label="Parada informal" icon="mapaton_simple_icons/bus_stop.png" />
+            <button type="tag" label="Parada formal" icon="mapaton_simple_icons/formal.png" />
+            <button type="tag" label="Parada informal" icon="mapaton_simple_icons/informal.png" />
         </row>
         <row>
             <button type="textnote" label="Ascensos y descensos"
