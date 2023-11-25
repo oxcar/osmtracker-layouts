@@ -1,11 +1,12 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Informal Stop" icon="/icons/bus_stop.png" />
-            <button type="tag" label="Formal Stop" icon="/icons/bus_stop.png" />
+            <button type="tag" label="Informal Stop" icon="mapaton_simple_icons/bus_stop.png" />
+            <button type="tag" label="Formal Stop" icon="mapaton_simple_icons/bus_stop.png" />
         </row>
         <row>
-            <button type="textnote" label="Ascends and Descends" icon="/icons/ascends_descends.png" />
+            <button type="textnote" label="Ascends and Descends"
+                icon="mapaton_simple_icons/ascends_descends.png" />
         </row>
     </layout>
 </layouts>
