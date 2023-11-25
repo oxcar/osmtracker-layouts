@@ -1,0 +1,9 @@
+<metadata>
+    <option iso="en" name="English">
+        Con este layout puedes mapear paradas de transporte y ascensos y descensos de pasajeros.
+    </option>
+    <option iso="es" name="Spanish">
+        Con este layout puedes mapear paradas de transporte y ascensos y descensos de pasajeros.
+    </option>
+    <github username="oxcar" repo="osmtracker-layouts" branch="main" />
+</metadata>
