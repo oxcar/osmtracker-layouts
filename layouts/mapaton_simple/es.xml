@@ -1,16 +1,11 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Parada informal" icon="text.png" />
-            <button type="tag" label="Parada formal" icon="text.png" />
+            <button type="tag" label="Parada formal" icon="/icons/bus_stop.png" />
+            <button type="tag" label="Parada informal" icon="/icons/bus_stop.png" />
         </row>
-        <row></row>
-        <row></row>
         <row>
-            <button type="textnote" label="Subidas y bajadas" icon="text.png" />
+            <button type="textnote" label="Ascensos y descensos" icon="/icons/ascends_descends.png" />
         </row>
-        <row></row>
-        <row></row>
-
     </layout>
 </layouts>
