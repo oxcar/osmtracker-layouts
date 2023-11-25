@@ -1,8 +1,8 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Informal Stop" icon="mapaton_simple_icons/formal.png" />
-            <button type="tag" label="Formal Stop" icon="mapaton_simple_icons/informal.png" />
+            <button type="tag" label="Informal Stop" icon="mapaton_simple_icons/informal.png" />
+            <button type="tag" label="Formal Stop" icon="mapaton_simple_icons/formal.png" />
         </row>
         <row>
             <button type="textnote" label="Ascends and Descends"
