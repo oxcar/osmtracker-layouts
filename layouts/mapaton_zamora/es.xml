@@ -9,12 +9,12 @@
             <button type="tag" label="Poste + Techo + Banca" icon="mapaton_zamora_icons/formal.png" />
         </row>
         <row>
-            <button type="tag" label="+ Sube hombre" />
-            <button type="tag" label="+ Sube mujer" />
+            <button type="tag" label="+ Sube hombre" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="+ Sube mujer" icon="mapaton_zamora_icons/bus_stop.png" />
         </row>
         <row>
-            <button type="tag" label="- Baja hombre" />
-            <button type="tag" label="- Baja mujer" />
+            <button type="tag" label="- Baja hombre" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="- Baja mujer" icon="mapaton_zamora_icons/bus_stop.png" />
         </row>
         <row>
             <button type="picture" label="Fotografía" icon="camera.png" />

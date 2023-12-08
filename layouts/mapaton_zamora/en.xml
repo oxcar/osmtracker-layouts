@@ -1,20 +1,21 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Informal stop" icon="icons/informal.png" />
-            <button type="tag" label="Stop post" icon="icons/formal.png" />
+            <button type="tag" label="Informal stop" icon="mapaton_zamora_icons/informal.png" />
+            <button type="tag" label="Stop post" icon="mapaton_zamora_icons/formal.png" />
         </row>
         <row>
-            <button type="tag" label="Stop post + Cover" icon="icons/formal.png" />
-            <button type="tag" label="Stop post + Cover + Bench" icon="icons/formal.png" />
+            <button type="tag" label="Stop post + Cover" icon="mapaton_zamora_icons/formal.png" />
+            <button type="tag" label="Stop post + Cover + Bench"
+                icon="mapaton_zamora_icons/formal.png" />
         </row>
         <row>
-            <button type="tag" label="+ Man ascends" />
-            <button type="tag" label="+ Woman ascends" />
+            <button type="tag" label="+ Man ascends" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="+ Woman ascends" icon="mapaton_zamora_icons/bus_stop.png" />
         </row>
         <row>
-            <button type="tag" label="- Men descends" />
-            <button type="tag" label="- Woman descends" />
+            <button type="tag" label="- Men descends" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="- Woman descends" icon="mapaton_zamora_icons/bus_stop.png" />
         </row>
         <row>
             <button type="picture" label="Fotografía" icon="camera.png" />
