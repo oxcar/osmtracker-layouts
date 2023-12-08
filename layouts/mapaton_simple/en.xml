@@ -9,6 +9,14 @@
             <button type="tag" label="Poste + Techo + Banca" icon="mapaton_simple_icons/formal.png" />
         </row>
         <row>
+            <button type="tag" label="Sube hombre" />
+            <button type="tag" label="Sube mujer" />
+        </row>
+        <row>
+            <button type="tag" label="Baja hombre" />
+            <button type="tag" label="Baja mujer" />
+        </row>
+        <row>
             <button type="picture" label="Fotografía" icon="camera.png" />
             <button type="textnote" label="Nota de texto" icon="text.png" />
         </row>
