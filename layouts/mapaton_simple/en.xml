@@ -1,8 +1,8 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Informal stop" icon="icons/informal.png" />
-            <button type="tag" label="Formal stop" icon="icons/formal.png" />
+            <button type="tag" label="Informal stop" icon="mapaton_simple_icons/informal.png" />
+            <button type="tag" label="Formal stop" icon="mapaton_simple_icons/formal.png" />
         </row>
         <row>
             <button type="picture" label="Fotografía" icon="camera.png" />
