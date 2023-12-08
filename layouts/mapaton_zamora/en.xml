@@ -2,20 +2,22 @@
     <layout name="root">
         <row>
             <button type="tag" label="Informal stop" icon="mapaton_zamora_icons/informal.png" />
-            <button type="tag" label="Stop post" icon="mapaton_zamora_icons/formal.png" />
+            <button type="tag" label="Stop post" icon="mapaton_zamora_icons/post.png" />
         </row>
         <row>
-            <button type="tag" label="Stop post + Cover" icon="mapaton_zamora_icons/formal.png" />
+            <button type="tag" label="Stop post + Cover" icon="mapaton_zamora_icons/post_cover.png" />
             <button type="tag" label="Stop post + Cover + Bench"
-                icon="mapaton_zamora_icons/formal.png" />
+                icon="mapaton_zamora_icons/post_cover_bench.png" />
         </row>
         <row>
-            <button type="tag" label="+ Man ascends" icon="mapaton_zamora_icons/bus_stop.png" />
-            <button type="tag" label="+ Woman ascends" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="⬆️ Man ascends" icon="mapaton_zamora_icons/man_ascends.png" />
+            <button type="tag" label="⬆️ Woman ascends"
+                icon="mapaton_zamora_icons/woman_ascends.png" />
         </row>
         <row>
-            <button type="tag" label="- Men descends" icon="mapaton_zamora_icons/bus_stop.png" />
-            <button type="tag" label="- Woman descends" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="⬇️ Men descends" icon="mapaton_zamora_icons/man_descends.png" />
+            <button type="tag" label="⬇️ Woman descends"
+                icon="mapaton_zamora_icons/woman_descends.png" />
         </row>
         <row>
             <button type="picture" label="Fotografía" icon="camera.png" />
