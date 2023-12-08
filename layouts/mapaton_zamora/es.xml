@@ -1,12 +1,12 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Parada no señalizada" icon="icons/informal.png" />
-            <button type="tag" label="Poste" icon="icons/formal.png" />
+            <button type="tag" label="Parada no señalizada" icon="mapaton_zamora_icons/informal.png" />
+            <button type="tag" label="Poste" icon="mapaton_zamora_icons/formal.png" />
         </row>
         <row>
-            <button type="tag" label="Poste + Techo" icon="icons/formal.png" />
-            <button type="tag" label="Poste + Techo + Banca" icon="icons/formal.png" />
+            <button type="tag" label="Poste + Techo" icon="mapaton_zamora_icons/formal.png" />
+            <button type="tag" label="Poste + Techo + Banca" icon="mapaton_zamora_icons/formal.png" />
         </row>
         <row>
             <button type="tag" label="+ Sube hombre" />
