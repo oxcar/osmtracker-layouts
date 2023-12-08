@@ -9,8 +9,8 @@
             <button type="tag" label="Poste + Techo + Banca" icon="mapaton_simple_icons/formal.png" />
         </row>
         <row>
-            <button type="picture" label="Take picture" icon="camera.png" />
-            <button type="textnote" label="Text note" icon="text.png" />
+            <button type="picture" label="Fotografía" icon="camera.png" />
+            <button type="textnote" label="Nota de texto" icon="text.png" />
         </row>
     </layout>
 </layouts>
