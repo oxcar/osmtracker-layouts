@@ -10,18 +10,19 @@
                 icon="mapaton_zamora_icons/post_cover_bench.png" />
         </row>
         <row>
-            <button type="tag" label="⬆️ Man ascends" icon="mapaton_zamora_icons/man_ascends.png" />
-            <button type="tag" label="⬆️ Woman ascends"
+            <button type="tag" label="🚹⬆️ Man ascends" icon="mapaton_zamora_icons/man_ascends.png" />
+            <button type="tag" label="🚺⬆️ Woman ascends"
                 icon="mapaton_zamora_icons/woman_ascends.png" />
         </row>
         <row>
-            <button type="tag" label="⬇️ Men descends" icon="mapaton_zamora_icons/man_descends.png" />
-            <button type="tag" label="⬇️ Woman descends"
+            <button type="tag" label="🚹⬇️ Men descends"
+                icon="mapaton_zamora_icons/man_descends.png" />
+            <button type="tag" label="🚺⬇️ Woman descends"
                 icon="mapaton_zamora_icons/woman_descends.png" />
         </row>
         <row>
-            <button type="picture" label="Fotografía" icon="camera.png" />
-            <button type="textnote" label="Nota de texto" icon="text.png" />
+            <button type="picture" label="Photography" icon="camera.png" />
+            <button type="textnote" label="Text note" icon="text.png" />
         </row>
     </layout>
 </layouts>

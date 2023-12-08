@@ -1,20 +1,24 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Parada no señalizada" icon="mapaton_zamora_icons/informal.png" />
-            <button type="tag" label="Poste" icon="mapaton_zamora_icons/formal.png" />
+            <button type="tag" label="Parada informal" icon="mapaton_zamora_icons/informal.png" />
+            <button type="tag" label="Poste" icon="mapaton_zamora_icons/post.png" />
         </row>
         <row>
-            <button type="tag" label="Poste + Techo" icon="mapaton_zamora_icons/formal.png" />
-            <button type="tag" label="Poste + Techo + Banca" icon="mapaton_zamora_icons/formal.png" />
+            <button type="tag" label="Poste + Techo" icon="mapaton_zamora_icons/post_cover.png" />
+            <button type="tag" label="Poste + Techo + Banca"
+                icon="mapaton_zamora_icons/post_cover_bench.png" />
         </row>
         <row>
-            <button type="tag" label="+ Sube hombre" icon="mapaton_zamora_icons/bus_stop.png" />
-            <button type="tag" label="+ Sube mujer" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="🚹⬆️ Hombre sube" icon="mapaton_zamora_icons/man_ascends.png" />
+            <button type="tag" label="🚺⬆️ Mujer sube"
+                icon="mapaton_zamora_icons/woman_ascends.png" />
         </row>
         <row>
-            <button type="tag" label="- Baja hombre" icon="mapaton_zamora_icons/bus_stop.png" />
-            <button type="tag" label="- Baja mujer" icon="mapaton_zamora_icons/bus_stop.png" />
+            <button type="tag" label="🚹⬇️ Hombre baja"
+                icon="mapaton_zamora_icons/man_descends.png" />
+            <button type="tag" label="🚺⬇️ Mujer baja"
+                icon="mapaton_zamora_icons/woman_descends.png" />
         </row>
         <row>
             <button type="picture" label="Fotografía" icon="camera.png" />
