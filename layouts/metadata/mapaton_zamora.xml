@@ -1,9 +1,9 @@
 <metadata>
     <option iso="en" name="English">
-        This template allows you to map formal and informal stops and take notes.
+        This template is specific for the Zamora Mapathon.
     </option>
     <option iso="es" name="Spanish">
-        Esta plantilla permite mapear paradas formales e informales y tomar notas.
+        Esta plantilla es específica para el Mapatón de Zamora.
     </option>
     <github username="oxcar" repo="osmtracker-layouts" branch="main" />
 </metadata>

@@ -1,0 +1,24 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="Parada no señalizada" icon="mapaton_simple_icons/informal.png" />
+            <button type="tag" label="Poste" icon="mapaton_simple_icons/formal.png" />
+        </row>
+        <row>
+            <button type="tag" label="Poste + Techo" icon="mapaton_simple_icons/formal.png" />
+            <button type="tag" label="Poste + Techo + Banca" icon="mapaton_simple_icons/formal.png" />
+        </row>
+        <row>
+            <button type="tag" label="Sube hombre" />
+            <button type="tag" label="Sube mujer" />
+        </row>
+        <row>
+            <button type="tag" label="Baja hombre" />
+            <button type="tag" label="Baja mujer" />
+        </row>
+        <row>
+            <button type="picture" label="Fotografía" icon="camera.png" />
+            <button type="textnote" label="Nota de texto" icon="text.png" />
+        </row>
+    </layout>
+</layouts>
