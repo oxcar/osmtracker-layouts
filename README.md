@@ -20,9 +20,5 @@ Esta es una plantilla que permite mapear:
 * 🚏 Paradas señalizadas
 * 🚏 Paradas señalizadas con techo
 * 🚏 Paradas señalizadas con techo y banca
-* 🚹↗️ Subida de pasajeros hombres
-* 🚺↗️ Subida de pasajeros mujeres
-* 🚹↙️ Bajada de pasajeros hombres
-* 🚺↙️ Bajada de pasajeros mujeres
 * 📷 Fotografías
 * 🗒️ Notas de texto
