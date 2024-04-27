@@ -16,13 +16,13 @@ Esta es una plantilla que permite mapear:
 Esta plantilla se diseñó especificamente para el mapeo en Zamora, Michoacán (México).
 
 Esta es una plantilla que permite mapear:
-* Paradas informales
-* Paradas señalizadas
-* Paradas señalizadas con techo
-* Paradas señalizadas con techo y banca
-* Subida de pasajeros hombres
-* Subida de pasajeros mujeres
-* Bajada de pasajeros hombres
-* Bajada de pasajeros mujeres
-* Fotografías
-* Notas de texto
+* 🚏 Paradas informales
+* 🚏 Paradas señalizadas
+* 🚏 Paradas señalizadas con techo
+* 🚏 Paradas señalizadas con techo y banca
+* 🚹↗️ Subida de pasajeros hombres
+* 🚺↗️ Subida de pasajeros mujeres
+* 🚹↙️ Bajada de pasajeros hombres
+* 🚺↙️ Bajada de pasajeros mujeres
+* 📷 Fotografías
+* 🗒️ Notas de texto
