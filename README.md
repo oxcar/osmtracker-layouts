@@ -13,7 +13,7 @@ Esta es una plantilla que permite mapear:
 
 ## Mapatón Zamora
 
-Esta plantilla se diseñó especificamente para el mapeo en Zamora, Michoacán (México).
+Esta plantilla se diseñó especificamente para el mapeo de rutas de transporte público en Zamora, Michoacán (México).
 
 Esta es una plantilla que permite mapear:
 * 🚏 Paradas informales
