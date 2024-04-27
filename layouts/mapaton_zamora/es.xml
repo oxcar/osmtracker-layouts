@@ -10,17 +10,6 @@
                 icon="mapaton_zamora_icons/post_cover_bench.png" />
         </row>
         <row>
-            <button type="tag" label="Hombre sube" icon="mapaton_zamora_icons/man_ascends.png" />
-            <button type="tag" label="Mujer sube"
-                icon="mapaton_zamora_icons/woman_ascends.png" />
-        </row>
-        <row>
-            <button type="tag" label="Hombre baja"
-                icon="mapaton_zamora_icons/man_descends.png" />
-            <button type="tag" label="Mujer baja"
-                icon="mapaton_zamora_icons/woman_descends.png" />
-        </row>
-        <row>
             <button type="picture" label="Fotografía" icon="camera.png" />
             <button type="textnote" label="Nota de texto" icon="text.png" />
         </row>
