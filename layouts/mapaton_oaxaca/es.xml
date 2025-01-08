@@ -1,10 +1,11 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="textnote" label="Nota de texto" icon="text.png" />
+            <button type="tag" label="Parada informal" icon="icons/informal.png" />
+            <button type="tag" label="Parada oficial" icon="icons/post_cover_bench.png" />
         </row>
         <row>
-            <button type="picture" label="Fotografía" icon="camera.png" />
+            <button type="textnote" label="Nota de texto" icon="text.png" />
         </row>
     </layout>
 </layouts>
