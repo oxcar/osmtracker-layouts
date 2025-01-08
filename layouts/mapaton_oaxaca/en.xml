@@ -2,8 +2,8 @@
     <layout name="root">
         <row>
             <row>
-                <button type="tag" label="Informal stop" icon="icons/informal.png" />
-                <button type="tag" label="Stop post" icon="icons/post.png" />
+                <button type="tag" label="Informal stop" icon="informal.png" />
+                <button type="tag" label="Oficial stop" icon="oficial.png" />
             </row>
         </row>
         <row>
