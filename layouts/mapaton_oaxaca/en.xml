@@ -1,10 +1,8 @@
 <layouts>
     <layout name="root">
         <row>
-            <row>
-                <button type="tag" label="Informal stop" icon="informal.png" />
-                <button type="tag" label="Oficial stop" icon="oficial.png" />
-            </row>
+            <button type="tag" label="Informal stop" icon="informal.png" />
+            <button type="tag" label="Oficial stop" icon="oficial.png" />
         </row>
         <row>
             <button type="textnote" label="Text note" icon="text.png" />
