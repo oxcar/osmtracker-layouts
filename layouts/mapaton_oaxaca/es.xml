@@ -1,8 +1,10 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="picture" label="Fotografía" icon="camera.png" />
             <button type="textnote" label="Nota de texto" icon="text.png" />
+        </row>
+        <row>
+            <button type="picture" label="Fotografía" icon="camera.png" />
         </row>
     </layout>
 </layouts>
