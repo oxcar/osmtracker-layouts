@@ -1,8 +1,8 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Parada informal" icon="icons/informal.png" />
-            <button type="tag" label="Parada oficial" icon="icons/oficial.png" />
+            <button type="tag" label="Parada informal" icon="iconos/informal.png" />
+            <button type="tag" label="Parada oficial" icon="iconos/oficial.png" />
         </row>
         <row>
             <button type="textnote" label="Nota de texto" icon="text.png" />
