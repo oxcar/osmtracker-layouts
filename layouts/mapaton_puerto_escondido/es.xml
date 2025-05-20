@@ -6,6 +6,7 @@
         </row>
         <row>
             <button type="textnote" label="Nota de texto" icon="text.png" />
+            <button type="picture" label="Fotografía" icon="camera.png" />
         </row>
     </layout>
 </layouts>
