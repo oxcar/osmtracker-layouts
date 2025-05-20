@@ -1,0 +1,11 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="Parada informal" icon="informal.png" />
+            <button type="tag" label="Parada oficial" icon="oficial.png" />
+        </row>
+        <row>
+            <button type="textnote" label="Nota de texto" icon="text.png" />
+        </row>
+    </layout>
+</layouts>
