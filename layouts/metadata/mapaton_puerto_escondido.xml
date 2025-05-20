@@ -1,0 +1,10 @@
+<metadata>
+    <option iso="en" name="English">
+        This template is specific for the Puerto Escondido Public Transport Route Mapping exercise.
+    </option>
+    <option iso="es" name="Spanish">
+        Esta plantilla es específica para el ejercicio de Mapeo de Rutas de Transporte público de
+        Puerto Escondido.
+    </option>
+    <github username="oxcar" repo="osmtracker-layouts" branch="main" />
+</metadata>
