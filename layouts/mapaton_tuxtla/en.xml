@@ -1,0 +1,11 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="Official stop" icon="mapaton_tuxtla_icons/oficial.png" />
+            <button type="tag" label="Informal stop" icon="mapaton_tuxtla_icons/informal.png" />
+        </row>
+        <row>
+            <button type="textnote" label="Text note" icon="text.png" />
+        </row>
+    </layout>
+</layouts>

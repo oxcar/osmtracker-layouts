@@ -1,9 +1,0 @@
-<metadata>
-    <option iso="en" name="English">
-        This template allows you to map formal and informal stops and take notes.
-    </option>
-    <option iso="es" name="Spanish">
-        Esta plantilla permite mapear paradas formales e informales y tomar notas.
-    </option>
-    <github username="oxcar" repo="osmtracker-layouts" branch="main" />
-</metadata>
